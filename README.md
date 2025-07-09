@@ -2,6 +2,8 @@
 
 Content processing, vector generation, and knowledge graph management service for the Spool platform.
 
+**Status:** ✅ Deployed to CodeBuild
+
 ## Overview
 
 The Content Service is responsible for:
